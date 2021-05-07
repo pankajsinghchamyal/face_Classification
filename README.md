@@ -9,4 +9,4 @@ Note :- For train any new image_id and selfi  pass the path of the location.
 
 link of facnet :- https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
 
-Facnet is taken from this blog :-  https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+Facnet is taken from this blog :-  https://machinelearningmastery.com/
